@@ -57,10 +57,7 @@ Enter the amount you wish to convert.
 Select the source (FROM) and target (TO) currencies from the dropdown.
 The result is displayed instantly below the converter.
 
-## 📌 Internship Tag
-🏷️ Micro-IT
 
-This project was developed as a part of the Micro IT Internship.
 
 
 
